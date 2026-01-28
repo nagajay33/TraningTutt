@@ -1,0 +1,11 @@
+SaleID,CustomerID,Product,Amount
+101,1,Laptop,75000
+102,2,Mobile,30000
+103,3,Tablet,20000
+104,4,Laptop,72000
+105,5,Mobile,28000
+106,6,Monitor,15000
+107,7,Keyboard,2500
+108,8,Mouse,1200
+109,9,Printer,18000
+110,10,Headphones,3500
