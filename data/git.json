@@ -1,0 +1,27 @@
+[
+    {
+        "p_rel_url" : "nagajay33/TraningTutt/refs/heads/main/data/Banks.csv",
+        "p_sink_folder" : "DataStore",
+        "p_sink_file" : "Banks.csv"
+    },
+    {
+        "p_rel_url" : "nagajay33/TraningTutt/refs/heads/main/data/Customers.csv",
+        "p_sink_folder" : "DataStore",
+        "p_sink_file" : "Customers.csv"
+    },
+    {
+        "p_rel_url" : "nagajay33/TraningTutt/refs/heads/main/data/Product.csv",
+        "p_sink_folder" : "DataStore",
+        "p_sink_file" : "Product.csv"
+    },
+    {
+        "p_rel_url" : "nagajay33/TraningTutt/refs/heads/main/data/Sales.csv",
+        "p_sink_folder" : "DataStore",
+        "p_sink_file" : "Sales.csv"
+    },
+    {
+        "p_rel_url" : "nagajay33/TraningTutt/refs/heads/main/data/cricketers.csv",
+        "p_sink_folder" : "DataStore",
+        "p_sink_file" : "Cricketers.csv"
+    }
+]
